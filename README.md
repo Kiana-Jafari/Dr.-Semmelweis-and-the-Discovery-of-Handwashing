@@ -6,4 +6,4 @@ Welcome! In this notebook, we dive into the historical analysis of data that led
 - Identified the importance of handwashing and its measurable impact on the proportion of deaths in medical clinics by applying advanced statistical analysis such as bootstrapping to measure its impact on reducing the mortality rate
 - Provided actionable insights that resulted in achieving a drastic reduction in the mortality rate among newborns by driving the implementation of handwashing protocols, significantly improving patient safety and outcomes
 
-The analysis presented here serves as a modern validation of historical medical data, offering valuable insights for enhancing our understanding of the past and improving current medical practices.
+The analysis presents a modern validation of historical medical data and offers valuable insights for enhancing our understanding of the past and improving current medical practices.
