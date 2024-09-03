@@ -1,6 +1,6 @@
 ### Dr. Semmelweis and the Discovery of Handwashing (saviour of mothers)
 
-Welcome! In this notebook, we dive into the historical analysis of data that led to one of the most significant medical discoveries of the 19th century: the importance of handwashing in reducing mortality rates due to childbed fever. The analysis re-visits the important work of Dr. Ignaz Semmelweis, who hypothesized that contaminated hands in medical clinics were a primary cause of high death rates among newborns and their mothers. By applying modern data analysis techniques, this notebook reexamines the original data to confirm Dr. Semmelweis's findings and understand the statistical impact of handwashing on saving lives.
+Welcome! In this notebook, we dive into the historical analysis of data that led to one of the most significant medical discoveries of the 19th century: **the importance of handwashing in reducing mortality rates due to childbed fever**. The analysis re-visits the important work of Dr. Ignaz Semmelweis, who hypothesized that contaminated hands in medical clinics were a primary cause of high death rates among newborns and their mothers. By applying modern data analysis techniques, this notebook reexamines the original data to confirm Dr. Semmelweis's findings and understand the statistical impact of handwashing on saving lives.
 
 This notebook provides a comprehensive re-analysis of the data surrounding Dr. Semmelweis's discovery of the life-saving benefits of handwashing in medical clinics. The key steps and findings are as follows:
 
