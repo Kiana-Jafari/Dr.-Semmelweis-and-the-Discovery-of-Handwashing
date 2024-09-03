@@ -4,6 +4,6 @@ Welcome! In this notebook, we dive into the historical analysis of data that led
 
 - Reanalyzed medical discoveries and performed EDA to visualize and understand the distribution of death proportions across two targeted clinics over multiple years that faced a high mortality rate from childbed fever
 - Identified the importance of handwashing and its measurable impact on the proportion of deaths in medical clinics by applying advanced statistical analysis such as bootstrapping to measure its impact on reducing the mortality rate
-- Provided actionable insights that resulted in achieving a drastic reduction in the mortality rate among newborns by driving the implementation of handwashing protocols, significantly improving patient safety and outcomes
+- Provided actionable insights that resulted in achieving a drastic reduction of above 8% in the mortality rate among newborns by driving the implementation of handwashing protocols, significantly improving patient safety and outcomes
 
 The analysis presents a modern validation of historical medical data and offers valuable insights for enhancing our understanding of the past and improving current medical practices.
